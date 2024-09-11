@@ -5,6 +5,11 @@
 ##### h5
 ###### h6
 
+## Table of Contents
+
+[Introduction](#introduction)
+[Features](#features)
+[Contact](#contact)
 
 ## Horizontal Rules
 
@@ -138,11 +143,6 @@ console.log(foo(5))
 
 [Link Text](http://url.com "Optional Title Here")
 
-## Table of Contents
-
-[Introduction](#introduction)
-[Features](#features)
-[Contact](#contact)
 
 ## Introduction
 
